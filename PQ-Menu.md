@@ -57,13 +57,13 @@ flowchart TD
     121 VRM_PROPERTY_PICTURE_HIGH_CONTRAST    YES
     ```
 
-    注意修改配置需要同时修改VRM_renewal_id
+    注意修改配置需要同时修改VRM_renewal_id, 3个ID一起改
 
     ```txt
     // -X9900R(Aclys)
     // Renewal .ID : YYYYMMDD(8 digit) + SerialNumber(2 digiit) = 10 digit
-    VrmPicDataRenewalID             2024120301
-    VrmPicDataRenewalID_Netflix     2024120301
+    VrmPicDataRenewalID             2025111101
+    VrmPicDataRenewalID_Netflix     2025111101
     VrmPicDataReferenceID           2025111101
     ```
 
